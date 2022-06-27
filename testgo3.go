@@ -7,6 +7,6 @@ import (
 )
 
 func CallTestgo3() {
-	fmt.Println("CallTestgo4")
-	testgo4.CallTestgo2()
+	fmt.Println("CallTestgo3 v1.1.1")
+	testgo4.CallTestgo4()
 }
